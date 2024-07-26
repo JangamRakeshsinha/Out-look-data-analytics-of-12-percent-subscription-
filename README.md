@@ -1,7 +1,6 @@
 # Out-look-data-analytics-of-12-percent-subscription-
 The data which is being shared is a part (12%) of the subscription base that we are having. This data has been restructured for the purpose of internship learnings. The findings from this data will not be tallying with the actual scenario. 
-
-Deliverables:-
+problem statement:
 
 1. Convert the data set into a structured format.
 2. For each tenure, find brandwise how many subscriptions were purchased.
